@@ -1,0 +1,14 @@
+D:\учеба\Fundamentals of Software Engineering\6 exercise\6 exercise\6 exercise\bin\Debug\netcoreapp3.1\6 exercise.exe
+D:\учеба\Fundamentals of Software Engineering\6 exercise\6 exercise\6 exercise\bin\Debug\netcoreapp3.1\6 exercise.deps.json
+D:\учеба\Fundamentals of Software Engineering\6 exercise\6 exercise\6 exercise\bin\Debug\netcoreapp3.1\6 exercise.runtimeconfig.json
+D:\учеба\Fundamentals of Software Engineering\6 exercise\6 exercise\6 exercise\bin\Debug\netcoreapp3.1\6 exercise.runtimeconfig.dev.json
+D:\учеба\Fundamentals of Software Engineering\6 exercise\6 exercise\6 exercise\bin\Debug\netcoreapp3.1\6 exercise.dll
+D:\учеба\Fundamentals of Software Engineering\6 exercise\6 exercise\6 exercise\bin\Debug\netcoreapp3.1\6 exercise.pdb
+D:\учеба\Fundamentals of Software Engineering\6 exercise\6 exercise\6 exercise\obj\Debug\netcoreapp3.1\6 exercise.csproj.AssemblyReference.cache
+D:\учеба\Fundamentals of Software Engineering\6 exercise\6 exercise\6 exercise\obj\Debug\netcoreapp3.1\6 exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Fundamentals of Software Engineering\6 exercise\6 exercise\6 exercise\obj\Debug\netcoreapp3.1\6 exercise.AssemblyInfoInputs.cache
+D:\учеба\Fundamentals of Software Engineering\6 exercise\6 exercise\6 exercise\obj\Debug\netcoreapp3.1\6 exercise.AssemblyInfo.cs
+D:\учеба\Fundamentals of Software Engineering\6 exercise\6 exercise\6 exercise\obj\Debug\netcoreapp3.1\6 exercise.csproj.CoreCompileInputs.cache
+D:\учеба\Fundamentals of Software Engineering\6 exercise\6 exercise\6 exercise\obj\Debug\netcoreapp3.1\6 exercise.dll
+D:\учеба\Fundamentals of Software Engineering\6 exercise\6 exercise\6 exercise\obj\Debug\netcoreapp3.1\6 exercise.pdb
+D:\учеба\Fundamentals of Software Engineering\6 exercise\6 exercise\6 exercise\obj\Debug\netcoreapp3.1\6 exercise.genruntimeconfig.cache
