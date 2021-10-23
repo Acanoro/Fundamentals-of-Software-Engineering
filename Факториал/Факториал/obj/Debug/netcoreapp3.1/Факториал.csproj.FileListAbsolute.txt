@@ -1,0 +1,14 @@
+D:\Studies\Fundamentals-of-Software-Engineering\Факториал\Факториал\obj\Debug\netcoreapp3.1\Факториал.csproj.AssemblyReference.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Факториал\Факториал\obj\Debug\netcoreapp3.1\Факториал.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\Fundamentals-of-Software-Engineering\Факториал\Факториал\obj\Debug\netcoreapp3.1\Факториал.AssemblyInfoInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Факториал\Факториал\obj\Debug\netcoreapp3.1\Факториал.AssemblyInfo.cs
+D:\Studies\Fundamentals-of-Software-Engineering\Факториал\Факториал\obj\Debug\netcoreapp3.1\Факториал.csproj.CoreCompileInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Факториал\Факториал\bin\Debug\netcoreapp3.1\Факториал.exe
+D:\Studies\Fundamentals-of-Software-Engineering\Факториал\Факториал\bin\Debug\netcoreapp3.1\Факториал.deps.json
+D:\Studies\Fundamentals-of-Software-Engineering\Факториал\Факториал\bin\Debug\netcoreapp3.1\Факториал.runtimeconfig.json
+D:\Studies\Fundamentals-of-Software-Engineering\Факториал\Факториал\bin\Debug\netcoreapp3.1\Факториал.runtimeconfig.dev.json
+D:\Studies\Fundamentals-of-Software-Engineering\Факториал\Факториал\bin\Debug\netcoreapp3.1\Факториал.dll
+D:\Studies\Fundamentals-of-Software-Engineering\Факториал\Факториал\bin\Debug\netcoreapp3.1\Факториал.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\Факториал\Факториал\obj\Debug\netcoreapp3.1\Факториал.dll
+D:\Studies\Fundamentals-of-Software-Engineering\Факториал\Факториал\obj\Debug\netcoreapp3.1\Факториал.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\Факториал\Факториал\obj\Debug\netcoreapp3.1\Факториал.genruntimeconfig.cache
