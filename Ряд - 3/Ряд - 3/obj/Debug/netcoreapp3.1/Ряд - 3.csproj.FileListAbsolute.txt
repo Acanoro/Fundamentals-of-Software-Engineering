@@ -1,0 +1,14 @@
+D:\Studies\Fundamentals-of-Software-Engineering\Ряд - 3\Ряд - 3\obj\Debug\netcoreapp3.1\Ряд - 3.csproj.AssemblyReference.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Ряд - 3\Ряд - 3\obj\Debug\netcoreapp3.1\Ряд - 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\Fundamentals-of-Software-Engineering\Ряд - 3\Ряд - 3\obj\Debug\netcoreapp3.1\Ряд - 3.AssemblyInfoInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Ряд - 3\Ряд - 3\obj\Debug\netcoreapp3.1\Ряд - 3.AssemblyInfo.cs
+D:\Studies\Fundamentals-of-Software-Engineering\Ряд - 3\Ряд - 3\obj\Debug\netcoreapp3.1\Ряд - 3.csproj.CoreCompileInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Ряд - 3\Ряд - 3\bin\Debug\netcoreapp3.1\Ряд - 3.exe
+D:\Studies\Fundamentals-of-Software-Engineering\Ряд - 3\Ряд - 3\bin\Debug\netcoreapp3.1\Ряд - 3.deps.json
+D:\Studies\Fundamentals-of-Software-Engineering\Ряд - 3\Ряд - 3\bin\Debug\netcoreapp3.1\Ряд - 3.runtimeconfig.json
+D:\Studies\Fundamentals-of-Software-Engineering\Ряд - 3\Ряд - 3\bin\Debug\netcoreapp3.1\Ряд - 3.runtimeconfig.dev.json
+D:\Studies\Fundamentals-of-Software-Engineering\Ряд - 3\Ряд - 3\bin\Debug\netcoreapp3.1\Ряд - 3.dll
+D:\Studies\Fundamentals-of-Software-Engineering\Ряд - 3\Ряд - 3\bin\Debug\netcoreapp3.1\Ряд - 3.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\Ряд - 3\Ряд - 3\obj\Debug\netcoreapp3.1\Ряд - 3.dll
+D:\Studies\Fundamentals-of-Software-Engineering\Ряд - 3\Ряд - 3\obj\Debug\netcoreapp3.1\Ряд - 3.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\Ряд - 3\Ряд - 3\obj\Debug\netcoreapp3.1\Ряд - 3.genruntimeconfig.cache
