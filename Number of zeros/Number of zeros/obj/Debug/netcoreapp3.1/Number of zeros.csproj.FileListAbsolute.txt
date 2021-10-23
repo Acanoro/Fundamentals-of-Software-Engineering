@@ -1,0 +1,14 @@
+D:\Studies\Fundamentals-of-Software-Engineering\Number of zeros\Number of zeros\bin\Debug\netcoreapp3.1\Number of zeros.exe
+D:\Studies\Fundamentals-of-Software-Engineering\Number of zeros\Number of zeros\bin\Debug\netcoreapp3.1\Number of zeros.deps.json
+D:\Studies\Fundamentals-of-Software-Engineering\Number of zeros\Number of zeros\bin\Debug\netcoreapp3.1\Number of zeros.runtimeconfig.json
+D:\Studies\Fundamentals-of-Software-Engineering\Number of zeros\Number of zeros\bin\Debug\netcoreapp3.1\Number of zeros.runtimeconfig.dev.json
+D:\Studies\Fundamentals-of-Software-Engineering\Number of zeros\Number of zeros\bin\Debug\netcoreapp3.1\Number of zeros.dll
+D:\Studies\Fundamentals-of-Software-Engineering\Number of zeros\Number of zeros\bin\Debug\netcoreapp3.1\Number of zeros.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\Number of zeros\Number of zeros\obj\Debug\netcoreapp3.1\Number of zeros.csproj.AssemblyReference.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Number of zeros\Number of zeros\obj\Debug\netcoreapp3.1\Number of zeros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\Fundamentals-of-Software-Engineering\Number of zeros\Number of zeros\obj\Debug\netcoreapp3.1\Number of zeros.AssemblyInfoInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Number of zeros\Number of zeros\obj\Debug\netcoreapp3.1\Number of zeros.AssemblyInfo.cs
+D:\Studies\Fundamentals-of-Software-Engineering\Number of zeros\Number of zeros\obj\Debug\netcoreapp3.1\Number of zeros.csproj.CoreCompileInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Number of zeros\Number of zeros\obj\Debug\netcoreapp3.1\Number of zeros.dll
+D:\Studies\Fundamentals-of-Software-Engineering\Number of zeros\Number of zeros\obj\Debug\netcoreapp3.1\Number of zeros.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\Number of zeros\Number of zeros\obj\Debug\netcoreapp3.1\Number of zeros.genruntimeconfig.cache
