@@ -23,11 +23,10 @@ namespace _7_exercise
                     }
 
                     Console.WriteLine();
+                    
+                    Console.ReadLine();
 
                 }
-
-                Console.ReadLine();
-
             }
         }
     }
