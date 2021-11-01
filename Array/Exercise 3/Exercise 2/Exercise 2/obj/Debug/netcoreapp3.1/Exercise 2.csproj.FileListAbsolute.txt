@@ -1,0 +1,14 @@
+D:\Studies\Fundamentals-of-Software-Engineering\Array\Exercise 3\Exercise 2\Exercise 2\bin\Debug\netcoreapp3.1\Exercise 2.exe
+D:\Studies\Fundamentals-of-Software-Engineering\Array\Exercise 3\Exercise 2\Exercise 2\bin\Debug\netcoreapp3.1\Exercise 2.deps.json
+D:\Studies\Fundamentals-of-Software-Engineering\Array\Exercise 3\Exercise 2\Exercise 2\bin\Debug\netcoreapp3.1\Exercise 2.runtimeconfig.json
+D:\Studies\Fundamentals-of-Software-Engineering\Array\Exercise 3\Exercise 2\Exercise 2\bin\Debug\netcoreapp3.1\Exercise 2.runtimeconfig.dev.json
+D:\Studies\Fundamentals-of-Software-Engineering\Array\Exercise 3\Exercise 2\Exercise 2\bin\Debug\netcoreapp3.1\Exercise 2.dll
+D:\Studies\Fundamentals-of-Software-Engineering\Array\Exercise 3\Exercise 2\Exercise 2\bin\Debug\netcoreapp3.1\Exercise 2.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\Array\Exercise 3\Exercise 2\Exercise 2\obj\Debug\netcoreapp3.1\Exercise 2.csproj.AssemblyReference.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Array\Exercise 3\Exercise 2\Exercise 2\obj\Debug\netcoreapp3.1\Exercise 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\Fundamentals-of-Software-Engineering\Array\Exercise 3\Exercise 2\Exercise 2\obj\Debug\netcoreapp3.1\Exercise 2.AssemblyInfoInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Array\Exercise 3\Exercise 2\Exercise 2\obj\Debug\netcoreapp3.1\Exercise 2.AssemblyInfo.cs
+D:\Studies\Fundamentals-of-Software-Engineering\Array\Exercise 3\Exercise 2\Exercise 2\obj\Debug\netcoreapp3.1\Exercise 2.csproj.CoreCompileInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Array\Exercise 3\Exercise 2\Exercise 2\obj\Debug\netcoreapp3.1\Exercise 2.dll
+D:\Studies\Fundamentals-of-Software-Engineering\Array\Exercise 3\Exercise 2\Exercise 2\obj\Debug\netcoreapp3.1\Exercise 2.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\Array\Exercise 3\Exercise 2\Exercise 2\obj\Debug\netcoreapp3.1\Exercise 2.genruntimeconfig.cache
