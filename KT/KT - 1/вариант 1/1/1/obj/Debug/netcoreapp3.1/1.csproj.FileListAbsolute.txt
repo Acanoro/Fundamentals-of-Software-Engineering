@@ -1,0 +1,14 @@
+D:\Studies\кр\вариант 1\1\1\bin\Debug\netcoreapp3.1\1.exe
+D:\Studies\кр\вариант 1\1\1\bin\Debug\netcoreapp3.1\1.deps.json
+D:\Studies\кр\вариант 1\1\1\bin\Debug\netcoreapp3.1\1.runtimeconfig.json
+D:\Studies\кр\вариант 1\1\1\bin\Debug\netcoreapp3.1\1.runtimeconfig.dev.json
+D:\Studies\кр\вариант 1\1\1\bin\Debug\netcoreapp3.1\1.dll
+D:\Studies\кр\вариант 1\1\1\bin\Debug\netcoreapp3.1\1.pdb
+D:\Studies\кр\вариант 1\1\1\obj\Debug\netcoreapp3.1\1.csproj.AssemblyReference.cache
+D:\Studies\кр\вариант 1\1\1\obj\Debug\netcoreapp3.1\1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\кр\вариант 1\1\1\obj\Debug\netcoreapp3.1\1.AssemblyInfoInputs.cache
+D:\Studies\кр\вариант 1\1\1\obj\Debug\netcoreapp3.1\1.AssemblyInfo.cs
+D:\Studies\кр\вариант 1\1\1\obj\Debug\netcoreapp3.1\1.csproj.CoreCompileInputs.cache
+D:\Studies\кр\вариант 1\1\1\obj\Debug\netcoreapp3.1\1.dll
+D:\Studies\кр\вариант 1\1\1\obj\Debug\netcoreapp3.1\1.pdb
+D:\Studies\кр\вариант 1\1\1\obj\Debug\netcoreapp3.1\1.genruntimeconfig.cache
