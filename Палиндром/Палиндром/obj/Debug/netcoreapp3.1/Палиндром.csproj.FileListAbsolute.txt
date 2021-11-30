@@ -1,0 +1,14 @@
+D:\Studies\Fundamentals-of-Software-Engineering\Палиндром\Палиндром\bin\Debug\netcoreapp3.1\Палиндром.exe
+D:\Studies\Fundamentals-of-Software-Engineering\Палиндром\Палиндром\bin\Debug\netcoreapp3.1\Палиндром.deps.json
+D:\Studies\Fundamentals-of-Software-Engineering\Палиндром\Палиндром\bin\Debug\netcoreapp3.1\Палиндром.runtimeconfig.json
+D:\Studies\Fundamentals-of-Software-Engineering\Палиндром\Палиндром\bin\Debug\netcoreapp3.1\Палиндром.runtimeconfig.dev.json
+D:\Studies\Fundamentals-of-Software-Engineering\Палиндром\Палиндром\bin\Debug\netcoreapp3.1\Палиндром.dll
+D:\Studies\Fundamentals-of-Software-Engineering\Палиндром\Палиндром\bin\Debug\netcoreapp3.1\Палиндром.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\Палиндром\Палиндром\obj\Debug\netcoreapp3.1\Палиндром.csproj.AssemblyReference.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Палиндром\Палиндром\obj\Debug\netcoreapp3.1\Палиндром.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\Fundamentals-of-Software-Engineering\Палиндром\Палиндром\obj\Debug\netcoreapp3.1\Палиндром.AssemblyInfoInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Палиндром\Палиндром\obj\Debug\netcoreapp3.1\Палиндром.AssemblyInfo.cs
+D:\Studies\Fundamentals-of-Software-Engineering\Палиндром\Палиндром\obj\Debug\netcoreapp3.1\Палиндром.csproj.CoreCompileInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Палиндром\Палиндром\obj\Debug\netcoreapp3.1\Палиндром.dll
+D:\Studies\Fundamentals-of-Software-Engineering\Палиндром\Палиндром\obj\Debug\netcoreapp3.1\Палиндром.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\Палиндром\Палиндром\obj\Debug\netcoreapp3.1\Палиндром.genruntimeconfig.cache
