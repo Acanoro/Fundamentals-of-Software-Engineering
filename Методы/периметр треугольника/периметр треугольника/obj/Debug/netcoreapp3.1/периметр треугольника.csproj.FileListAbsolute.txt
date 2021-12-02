@@ -1,0 +1,28 @@
+D:\Studies\Fundamentals-of-Software-Engineering\Разные задачи\периметр треугольника\периметр треугольника\bin\Debug\netcoreapp3.1\периметр треугольника.exe
+D:\Studies\Fundamentals-of-Software-Engineering\Разные задачи\периметр треугольника\периметр треугольника\bin\Debug\netcoreapp3.1\периметр треугольника.deps.json
+D:\Studies\Fundamentals-of-Software-Engineering\Разные задачи\периметр треугольника\периметр треугольника\bin\Debug\netcoreapp3.1\периметр треугольника.runtimeconfig.json
+D:\Studies\Fundamentals-of-Software-Engineering\Разные задачи\периметр треугольника\периметр треугольника\bin\Debug\netcoreapp3.1\периметр треугольника.runtimeconfig.dev.json
+D:\Studies\Fundamentals-of-Software-Engineering\Разные задачи\периметр треугольника\периметр треугольника\bin\Debug\netcoreapp3.1\периметр треугольника.dll
+D:\Studies\Fundamentals-of-Software-Engineering\Разные задачи\периметр треугольника\периметр треугольника\bin\Debug\netcoreapp3.1\периметр треугольника.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\Разные задачи\периметр треугольника\периметр треугольника\obj\Debug\netcoreapp3.1\периметр треугольника.csproj.AssemblyReference.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Разные задачи\периметр треугольника\периметр треугольника\obj\Debug\netcoreapp3.1\периметр треугольника.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\Fundamentals-of-Software-Engineering\Разные задачи\периметр треугольника\периметр треугольника\obj\Debug\netcoreapp3.1\периметр треугольника.AssemblyInfoInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Разные задачи\периметр треугольника\периметр треугольника\obj\Debug\netcoreapp3.1\периметр треугольника.AssemblyInfo.cs
+D:\Studies\Fundamentals-of-Software-Engineering\Разные задачи\периметр треугольника\периметр треугольника\obj\Debug\netcoreapp3.1\периметр треугольника.csproj.CoreCompileInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Разные задачи\периметр треугольника\периметр треугольника\obj\Debug\netcoreapp3.1\периметр треугольника.dll
+D:\Studies\Fundamentals-of-Software-Engineering\Разные задачи\периметр треугольника\периметр треугольника\obj\Debug\netcoreapp3.1\периметр треугольника.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\Разные задачи\периметр треугольника\периметр треугольника\obj\Debug\netcoreapp3.1\периметр треугольника.genruntimeconfig.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\периметр треугольника\периметр треугольника\bin\Debug\netcoreapp3.1\периметр треугольника.exe
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\периметр треугольника\периметр треугольника\bin\Debug\netcoreapp3.1\периметр треугольника.deps.json
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\периметр треугольника\периметр треугольника\bin\Debug\netcoreapp3.1\периметр треугольника.runtimeconfig.json
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\периметр треугольника\периметр треугольника\bin\Debug\netcoreapp3.1\периметр треугольника.runtimeconfig.dev.json
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\периметр треугольника\периметр треугольника\bin\Debug\netcoreapp3.1\периметр треугольника.dll
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\периметр треугольника\периметр треугольника\bin\Debug\netcoreapp3.1\периметр треугольника.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\периметр треугольника\периметр треугольника\obj\Debug\netcoreapp3.1\периметр треугольника.csproj.AssemblyReference.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\периметр треугольника\периметр треугольника\obj\Debug\netcoreapp3.1\периметр треугольника.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\периметр треугольника\периметр треугольника\obj\Debug\netcoreapp3.1\периметр треугольника.AssemblyInfoInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\периметр треугольника\периметр треугольника\obj\Debug\netcoreapp3.1\периметр треугольника.AssemblyInfo.cs
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\периметр треугольника\периметр треугольника\obj\Debug\netcoreapp3.1\периметр треугольника.csproj.CoreCompileInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\периметр треугольника\периметр треугольника\obj\Debug\netcoreapp3.1\периметр треугольника.dll
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\периметр треугольника\периметр треугольника\obj\Debug\netcoreapp3.1\периметр треугольника.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\периметр треугольника\периметр треугольника\obj\Debug\netcoreapp3.1\периметр треугольника.genruntimeconfig.cache

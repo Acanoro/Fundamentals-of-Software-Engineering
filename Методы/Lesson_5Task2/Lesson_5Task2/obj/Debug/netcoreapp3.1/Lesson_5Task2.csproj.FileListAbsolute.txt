@@ -1,0 +1,14 @@
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\Lesson_5Task2\Lesson_5Task2\bin\Debug\netcoreapp3.1\Lesson_5Task2.exe
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\Lesson_5Task2\Lesson_5Task2\bin\Debug\netcoreapp3.1\Lesson_5Task2.deps.json
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\Lesson_5Task2\Lesson_5Task2\bin\Debug\netcoreapp3.1\Lesson_5Task2.runtimeconfig.json
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\Lesson_5Task2\Lesson_5Task2\bin\Debug\netcoreapp3.1\Lesson_5Task2.runtimeconfig.dev.json
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\Lesson_5Task2\Lesson_5Task2\bin\Debug\netcoreapp3.1\Lesson_5Task2.dll
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\Lesson_5Task2\Lesson_5Task2\bin\Debug\netcoreapp3.1\Lesson_5Task2.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\Lesson_5Task2\Lesson_5Task2\obj\Debug\netcoreapp3.1\Lesson_5Task2.csproj.AssemblyReference.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\Lesson_5Task2\Lesson_5Task2\obj\Debug\netcoreapp3.1\Lesson_5Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\Lesson_5Task2\Lesson_5Task2\obj\Debug\netcoreapp3.1\Lesson_5Task2.AssemblyInfoInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\Lesson_5Task2\Lesson_5Task2\obj\Debug\netcoreapp3.1\Lesson_5Task2.AssemblyInfo.cs
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\Lesson_5Task2\Lesson_5Task2\obj\Debug\netcoreapp3.1\Lesson_5Task2.csproj.CoreCompileInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\Lesson_5Task2\Lesson_5Task2\obj\Debug\netcoreapp3.1\Lesson_5Task2.dll
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\Lesson_5Task2\Lesson_5Task2\obj\Debug\netcoreapp3.1\Lesson_5Task2.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\Lesson_5Task2\Lesson_5Task2\obj\Debug\netcoreapp3.1\Lesson_5Task2.genruntimeconfig.cache
