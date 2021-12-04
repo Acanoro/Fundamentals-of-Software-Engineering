@@ -1,0 +1,14 @@
+D:\Studies\Fundamentals-of-Software-Engineering\Циклы и условные операторы\количество делителей\количество делителей\bin\Debug\netcoreapp3.1\количество делителей.exe
+D:\Studies\Fundamentals-of-Software-Engineering\Циклы и условные операторы\количество делителей\количество делителей\bin\Debug\netcoreapp3.1\количество делителей.deps.json
+D:\Studies\Fundamentals-of-Software-Engineering\Циклы и условные операторы\количество делителей\количество делителей\bin\Debug\netcoreapp3.1\количество делителей.runtimeconfig.json
+D:\Studies\Fundamentals-of-Software-Engineering\Циклы и условные операторы\количество делителей\количество делителей\bin\Debug\netcoreapp3.1\количество делителей.runtimeconfig.dev.json
+D:\Studies\Fundamentals-of-Software-Engineering\Циклы и условные операторы\количество делителей\количество делителей\bin\Debug\netcoreapp3.1\количество делителей.dll
+D:\Studies\Fundamentals-of-Software-Engineering\Циклы и условные операторы\количество делителей\количество делителей\bin\Debug\netcoreapp3.1\количество делителей.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\Циклы и условные операторы\количество делителей\количество делителей\obj\Debug\netcoreapp3.1\количество делителей.csproj.AssemblyReference.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Циклы и условные операторы\количество делителей\количество делителей\obj\Debug\netcoreapp3.1\количество делителей.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\Fundamentals-of-Software-Engineering\Циклы и условные операторы\количество делителей\количество делителей\obj\Debug\netcoreapp3.1\количество делителей.AssemblyInfoInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Циклы и условные операторы\количество делителей\количество делителей\obj\Debug\netcoreapp3.1\количество делителей.AssemblyInfo.cs
+D:\Studies\Fundamentals-of-Software-Engineering\Циклы и условные операторы\количество делителей\количество делителей\obj\Debug\netcoreapp3.1\количество делителей.csproj.CoreCompileInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Циклы и условные операторы\количество делителей\количество делителей\obj\Debug\netcoreapp3.1\количество делителей.dll
+D:\Studies\Fundamentals-of-Software-Engineering\Циклы и условные операторы\количество делителей\количество делителей\obj\Debug\netcoreapp3.1\количество делителей.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\Циклы и условные операторы\количество делителей\количество делителей\obj\Debug\netcoreapp3.1\количество делителей.genruntimeconfig.cache
