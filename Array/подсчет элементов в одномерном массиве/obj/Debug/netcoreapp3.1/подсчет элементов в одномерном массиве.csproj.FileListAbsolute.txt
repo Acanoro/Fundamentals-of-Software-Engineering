@@ -1,0 +1,14 @@
+D:\Studies\Fundamentals-of-Software-Engineering\Array\подсчет элементов в одномерном массиве\bin\Debug\netcoreapp3.1\подсчет элементов в одномерном массиве.exe
+D:\Studies\Fundamentals-of-Software-Engineering\Array\подсчет элементов в одномерном массиве\bin\Debug\netcoreapp3.1\подсчет элементов в одномерном массиве.deps.json
+D:\Studies\Fundamentals-of-Software-Engineering\Array\подсчет элементов в одномерном массиве\bin\Debug\netcoreapp3.1\подсчет элементов в одномерном массиве.runtimeconfig.json
+D:\Studies\Fundamentals-of-Software-Engineering\Array\подсчет элементов в одномерном массиве\bin\Debug\netcoreapp3.1\подсчет элементов в одномерном массиве.runtimeconfig.dev.json
+D:\Studies\Fundamentals-of-Software-Engineering\Array\подсчет элементов в одномерном массиве\bin\Debug\netcoreapp3.1\подсчет элементов в одномерном массиве.dll
+D:\Studies\Fundamentals-of-Software-Engineering\Array\подсчет элементов в одномерном массиве\bin\Debug\netcoreapp3.1\подсчет элементов в одномерном массиве.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\Array\подсчет элементов в одномерном массиве\obj\Debug\netcoreapp3.1\подсчет элементов в одномерном массиве.csproj.AssemblyReference.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Array\подсчет элементов в одномерном массиве\obj\Debug\netcoreapp3.1\подсчет элементов в одномерном массиве.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\Fundamentals-of-Software-Engineering\Array\подсчет элементов в одномерном массиве\obj\Debug\netcoreapp3.1\подсчет элементов в одномерном массиве.AssemblyInfoInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Array\подсчет элементов в одномерном массиве\obj\Debug\netcoreapp3.1\подсчет элементов в одномерном массиве.AssemblyInfo.cs
+D:\Studies\Fundamentals-of-Software-Engineering\Array\подсчет элементов в одномерном массиве\obj\Debug\netcoreapp3.1\подсчет элементов в одномерном массиве.csproj.CoreCompileInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Array\подсчет элементов в одномерном массиве\obj\Debug\netcoreapp3.1\подсчет элементов в одномерном массиве.dll
+D:\Studies\Fundamentals-of-Software-Engineering\Array\подсчет элементов в одномерном массиве\obj\Debug\netcoreapp3.1\подсчет элементов в одномерном массиве.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\Array\подсчет элементов в одномерном массиве\obj\Debug\netcoreapp3.1\подсчет элементов в одномерном массиве.genruntimeconfig.cache

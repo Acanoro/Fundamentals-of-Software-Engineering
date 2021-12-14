@@ -1,0 +1,14 @@
+D:\Studies\Fundamentals-of-Software-Engineering\графического изображения делимости\bin\Debug\netcoreapp3.1\графического изображения делимости.exe
+D:\Studies\Fundamentals-of-Software-Engineering\графического изображения делимости\bin\Debug\netcoreapp3.1\графического изображения делимости.deps.json
+D:\Studies\Fundamentals-of-Software-Engineering\графического изображения делимости\bin\Debug\netcoreapp3.1\графического изображения делимости.runtimeconfig.json
+D:\Studies\Fundamentals-of-Software-Engineering\графического изображения делимости\bin\Debug\netcoreapp3.1\графического изображения делимости.runtimeconfig.dev.json
+D:\Studies\Fundamentals-of-Software-Engineering\графического изображения делимости\bin\Debug\netcoreapp3.1\графического изображения делимости.dll
+D:\Studies\Fundamentals-of-Software-Engineering\графического изображения делимости\bin\Debug\netcoreapp3.1\графического изображения делимости.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\графического изображения делимости\obj\Debug\netcoreapp3.1\графического изображения делимости.csproj.AssemblyReference.cache
+D:\Studies\Fundamentals-of-Software-Engineering\графического изображения делимости\obj\Debug\netcoreapp3.1\графического изображения делимости.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\Fundamentals-of-Software-Engineering\графического изображения делимости\obj\Debug\netcoreapp3.1\графического изображения делимости.AssemblyInfoInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\графического изображения делимости\obj\Debug\netcoreapp3.1\графического изображения делимости.AssemblyInfo.cs
+D:\Studies\Fundamentals-of-Software-Engineering\графического изображения делимости\obj\Debug\netcoreapp3.1\графического изображения делимости.csproj.CoreCompileInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\графического изображения делимости\obj\Debug\netcoreapp3.1\графического изображения делимости.dll
+D:\Studies\Fundamentals-of-Software-Engineering\графического изображения делимости\obj\Debug\netcoreapp3.1\графического изображения делимости.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\графического изображения делимости\obj\Debug\netcoreapp3.1\графического изображения делимости.genruntimeconfig.cache

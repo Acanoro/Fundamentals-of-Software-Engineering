@@ -1,0 +1,14 @@
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\Количество делителей\bin\Debug\netcoreapp3.1\Количество делителей.exe
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\Количество делителей\bin\Debug\netcoreapp3.1\Количество делителей.deps.json
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\Количество делителей\bin\Debug\netcoreapp3.1\Количество делителей.runtimeconfig.json
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\Количество делителей\bin\Debug\netcoreapp3.1\Количество делителей.runtimeconfig.dev.json
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\Количество делителей\bin\Debug\netcoreapp3.1\Количество делителей.dll
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\Количество делителей\bin\Debug\netcoreapp3.1\Количество делителей.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\Количество делителей\obj\Debug\netcoreapp3.1\Количество делителей.csproj.AssemblyReference.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\Количество делителей\obj\Debug\netcoreapp3.1\Количество делителей.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\Количество делителей\obj\Debug\netcoreapp3.1\Количество делителей.AssemblyInfoInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\Количество делителей\obj\Debug\netcoreapp3.1\Количество делителей.AssemblyInfo.cs
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\Количество делителей\obj\Debug\netcoreapp3.1\Количество делителей.csproj.CoreCompileInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\Количество делителей\obj\Debug\netcoreapp3.1\Количество делителей.dll
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\Количество делителей\obj\Debug\netcoreapp3.1\Количество делителей.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\Методы\Количество делителей\obj\Debug\netcoreapp3.1\Количество делителей.genruntimeconfig.cache

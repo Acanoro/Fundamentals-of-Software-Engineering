@@ -1,0 +1,14 @@
+D:\Studies\Fundamentals-of-Software-Engineering\Пять делителей\bin\Debug\netcoreapp3.1\Пять делителей.exe
+D:\Studies\Fundamentals-of-Software-Engineering\Пять делителей\bin\Debug\netcoreapp3.1\Пять делителей.deps.json
+D:\Studies\Fundamentals-of-Software-Engineering\Пять делителей\bin\Debug\netcoreapp3.1\Пять делителей.runtimeconfig.json
+D:\Studies\Fundamentals-of-Software-Engineering\Пять делителей\bin\Debug\netcoreapp3.1\Пять делителей.runtimeconfig.dev.json
+D:\Studies\Fundamentals-of-Software-Engineering\Пять делителей\bin\Debug\netcoreapp3.1\Пять делителей.dll
+D:\Studies\Fundamentals-of-Software-Engineering\Пять делителей\bin\Debug\netcoreapp3.1\Пять делителей.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\Пять делителей\obj\Debug\netcoreapp3.1\Пять делителей.csproj.AssemblyReference.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Пять делителей\obj\Debug\netcoreapp3.1\Пять делителей.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\Fundamentals-of-Software-Engineering\Пять делителей\obj\Debug\netcoreapp3.1\Пять делителей.AssemblyInfoInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Пять делителей\obj\Debug\netcoreapp3.1\Пять делителей.AssemblyInfo.cs
+D:\Studies\Fundamentals-of-Software-Engineering\Пять делителей\obj\Debug\netcoreapp3.1\Пять делителей.csproj.CoreCompileInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Пять делителей\obj\Debug\netcoreapp3.1\Пять делителей.dll
+D:\Studies\Fundamentals-of-Software-Engineering\Пять делителей\obj\Debug\netcoreapp3.1\Пять делителей.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\Пять делителей\obj\Debug\netcoreapp3.1\Пять делителей.genruntimeconfig.cache
