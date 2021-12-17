@@ -22,9 +22,9 @@ namespace Lesson_5Lab4
         //минимальное: 2, максимальное: 8
         static void Main(string[] args)
         {
-            int max = int.MinValue;
+            int max = 0;
 
-            int min = int.MaxValue;
+            int min = 0;
 
             MinmaxSeq(ref max, ref min);
 

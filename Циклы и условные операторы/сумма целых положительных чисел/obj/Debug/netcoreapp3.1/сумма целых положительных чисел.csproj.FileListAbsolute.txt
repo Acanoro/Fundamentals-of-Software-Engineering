@@ -1,0 +1,14 @@
+D:\Studies\Fundamentals-of-Software-Engineering\Циклы и условные операторы\сумма целых положительных чисел\bin\Debug\netcoreapp3.1\сумма целых положительных чисел.exe
+D:\Studies\Fundamentals-of-Software-Engineering\Циклы и условные операторы\сумма целых положительных чисел\bin\Debug\netcoreapp3.1\сумма целых положительных чисел.deps.json
+D:\Studies\Fundamentals-of-Software-Engineering\Циклы и условные операторы\сумма целых положительных чисел\bin\Debug\netcoreapp3.1\сумма целых положительных чисел.runtimeconfig.json
+D:\Studies\Fundamentals-of-Software-Engineering\Циклы и условные операторы\сумма целых положительных чисел\bin\Debug\netcoreapp3.1\сумма целых положительных чисел.runtimeconfig.dev.json
+D:\Studies\Fundamentals-of-Software-Engineering\Циклы и условные операторы\сумма целых положительных чисел\bin\Debug\netcoreapp3.1\сумма целых положительных чисел.dll
+D:\Studies\Fundamentals-of-Software-Engineering\Циклы и условные операторы\сумма целых положительных чисел\bin\Debug\netcoreapp3.1\сумма целых положительных чисел.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\Циклы и условные операторы\сумма целых положительных чисел\obj\Debug\netcoreapp3.1\сумма целых положительных чисел.csproj.AssemblyReference.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Циклы и условные операторы\сумма целых положительных чисел\obj\Debug\netcoreapp3.1\сумма целых положительных чисел.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\Fundamentals-of-Software-Engineering\Циклы и условные операторы\сумма целых положительных чисел\obj\Debug\netcoreapp3.1\сумма целых положительных чисел.AssemblyInfoInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Циклы и условные операторы\сумма целых положительных чисел\obj\Debug\netcoreapp3.1\сумма целых положительных чисел.AssemblyInfo.cs
+D:\Studies\Fundamentals-of-Software-Engineering\Циклы и условные операторы\сумма целых положительных чисел\obj\Debug\netcoreapp3.1\сумма целых положительных чисел.csproj.CoreCompileInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Циклы и условные операторы\сумма целых положительных чисел\obj\Debug\netcoreapp3.1\сумма целых положительных чисел.dll
+D:\Studies\Fundamentals-of-Software-Engineering\Циклы и условные операторы\сумма целых положительных чисел\obj\Debug\netcoreapp3.1\сумма целых положительных чисел.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\Циклы и условные операторы\сумма целых положительных чисел\obj\Debug\netcoreapp3.1\сумма целых положительных чисел.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Studies\Fundamentals-of-Software-Engineering\строки\третий символ\bin\Debug\netcoreapp3.1\третий символ.exe
+D:\Studies\Fundamentals-of-Software-Engineering\строки\третий символ\bin\Debug\netcoreapp3.1\третий символ.deps.json
+D:\Studies\Fundamentals-of-Software-Engineering\строки\третий символ\bin\Debug\netcoreapp3.1\третий символ.runtimeconfig.json
+D:\Studies\Fundamentals-of-Software-Engineering\строки\третий символ\bin\Debug\netcoreapp3.1\третий символ.runtimeconfig.dev.json
+D:\Studies\Fundamentals-of-Software-Engineering\строки\третий символ\bin\Debug\netcoreapp3.1\третий символ.dll
+D:\Studies\Fundamentals-of-Software-Engineering\строки\третий символ\bin\Debug\netcoreapp3.1\третий символ.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\строки\третий символ\obj\Debug\netcoreapp3.1\третий символ.csproj.AssemblyReference.cache
+D:\Studies\Fundamentals-of-Software-Engineering\строки\третий символ\obj\Debug\netcoreapp3.1\третий символ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\Fundamentals-of-Software-Engineering\строки\третий символ\obj\Debug\netcoreapp3.1\третий символ.AssemblyInfoInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\строки\третий символ\obj\Debug\netcoreapp3.1\третий символ.AssemblyInfo.cs
+D:\Studies\Fundamentals-of-Software-Engineering\строки\третий символ\obj\Debug\netcoreapp3.1\третий символ.csproj.CoreCompileInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\строки\третий символ\obj\Debug\netcoreapp3.1\третий символ.dll
+D:\Studies\Fundamentals-of-Software-Engineering\строки\третий символ\obj\Debug\netcoreapp3.1\третий символ.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\строки\третий символ\obj\Debug\netcoreapp3.1\третий символ.genruntimeconfig.cache

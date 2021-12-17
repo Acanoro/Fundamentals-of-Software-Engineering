@@ -1,0 +1,14 @@
+D:\Studies\Fundamentals-of-Software-Engineering\строки\Реверс\Реверс\bin\Debug\netcoreapp3.1\Реверс.exe
+D:\Studies\Fundamentals-of-Software-Engineering\строки\Реверс\Реверс\bin\Debug\netcoreapp3.1\Реверс.deps.json
+D:\Studies\Fundamentals-of-Software-Engineering\строки\Реверс\Реверс\bin\Debug\netcoreapp3.1\Реверс.runtimeconfig.json
+D:\Studies\Fundamentals-of-Software-Engineering\строки\Реверс\Реверс\bin\Debug\netcoreapp3.1\Реверс.runtimeconfig.dev.json
+D:\Studies\Fundamentals-of-Software-Engineering\строки\Реверс\Реверс\bin\Debug\netcoreapp3.1\Реверс.dll
+D:\Studies\Fundamentals-of-Software-Engineering\строки\Реверс\Реверс\bin\Debug\netcoreapp3.1\Реверс.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\строки\Реверс\Реверс\obj\Debug\netcoreapp3.1\Реверс.csproj.AssemblyReference.cache
+D:\Studies\Fundamentals-of-Software-Engineering\строки\Реверс\Реверс\obj\Debug\netcoreapp3.1\Реверс.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\Fundamentals-of-Software-Engineering\строки\Реверс\Реверс\obj\Debug\netcoreapp3.1\Реверс.AssemblyInfoInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\строки\Реверс\Реверс\obj\Debug\netcoreapp3.1\Реверс.AssemblyInfo.cs
+D:\Studies\Fundamentals-of-Software-Engineering\строки\Реверс\Реверс\obj\Debug\netcoreapp3.1\Реверс.csproj.CoreCompileInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\строки\Реверс\Реверс\obj\Debug\netcoreapp3.1\Реверс.dll
+D:\Studies\Fundamentals-of-Software-Engineering\строки\Реверс\Реверс\obj\Debug\netcoreapp3.1\Реверс.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\строки\Реверс\Реверс\obj\Debug\netcoreapp3.1\Реверс.genruntimeconfig.cache

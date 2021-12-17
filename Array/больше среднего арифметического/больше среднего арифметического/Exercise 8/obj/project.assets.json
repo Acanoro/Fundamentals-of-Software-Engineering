@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Studies\\Fundamentals-of-Software-Engineering\\Array\\Exercise 8\\Exercise 8\\Exercise 8\\Exercise 8.csproj",
+      "projectUniqueName": "D:\\Studies\\Fundamentals-of-Software-Engineering\\Array\\больше среднего арифметического\\больше среднего арифметического\\Exercise 8\\Exercise 8.csproj",
       "projectName": "Exercise 8",
-      "projectPath": "D:\\Studies\\Fundamentals-of-Software-Engineering\\Array\\Exercise 8\\Exercise 8\\Exercise 8\\Exercise 8.csproj",
+      "projectPath": "D:\\Studies\\Fundamentals-of-Software-Engineering\\Array\\больше среднего арифметического\\больше среднего арифметического\\Exercise 8\\Exercise 8.csproj",
       "packagesPath": "C:\\Users\\ntuma\\.nuget\\packages\\",
-      "outputPath": "D:\\Studies\\Fundamentals-of-Software-Engineering\\Array\\Exercise 8\\Exercise 8\\Exercise 8\\obj\\",
+      "outputPath": "D:\\Studies\\Fundamentals-of-Software-Engineering\\Array\\больше среднего арифметического\\больше среднего арифметического\\Exercise 8\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

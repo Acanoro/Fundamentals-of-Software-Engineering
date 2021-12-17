@@ -1,0 +1,14 @@
+D:\Studies\Fundamentals-of-Software-Engineering\Array\наибольшие и наименьшие элементы\наибольшие и наименьшие элементы\Exercise 7\obj\Debug\netcoreapp3.1\Exercise 7.csproj.AssemblyReference.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Array\наибольшие и наименьшие элементы\наибольшие и наименьшие элементы\Exercise 7\obj\Debug\netcoreapp3.1\Exercise 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\Fundamentals-of-Software-Engineering\Array\наибольшие и наименьшие элементы\наибольшие и наименьшие элементы\Exercise 7\obj\Debug\netcoreapp3.1\Exercise 7.AssemblyInfoInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Array\наибольшие и наименьшие элементы\наибольшие и наименьшие элементы\Exercise 7\obj\Debug\netcoreapp3.1\Exercise 7.AssemblyInfo.cs
+D:\Studies\Fundamentals-of-Software-Engineering\Array\наибольшие и наименьшие элементы\наибольшие и наименьшие элементы\Exercise 7\obj\Debug\netcoreapp3.1\Exercise 7.csproj.CoreCompileInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\Array\наибольшие и наименьшие элементы\наибольшие и наименьшие элементы\Exercise 7\bin\Debug\netcoreapp3.1\Exercise 7.exe
+D:\Studies\Fundamentals-of-Software-Engineering\Array\наибольшие и наименьшие элементы\наибольшие и наименьшие элементы\Exercise 7\bin\Debug\netcoreapp3.1\Exercise 7.deps.json
+D:\Studies\Fundamentals-of-Software-Engineering\Array\наибольшие и наименьшие элементы\наибольшие и наименьшие элементы\Exercise 7\bin\Debug\netcoreapp3.1\Exercise 7.runtimeconfig.json
+D:\Studies\Fundamentals-of-Software-Engineering\Array\наибольшие и наименьшие элементы\наибольшие и наименьшие элементы\Exercise 7\bin\Debug\netcoreapp3.1\Exercise 7.runtimeconfig.dev.json
+D:\Studies\Fundamentals-of-Software-Engineering\Array\наибольшие и наименьшие элементы\наибольшие и наименьшие элементы\Exercise 7\bin\Debug\netcoreapp3.1\Exercise 7.dll
+D:\Studies\Fundamentals-of-Software-Engineering\Array\наибольшие и наименьшие элементы\наибольшие и наименьшие элементы\Exercise 7\bin\Debug\netcoreapp3.1\Exercise 7.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\Array\наибольшие и наименьшие элементы\наибольшие и наименьшие элементы\Exercise 7\obj\Debug\netcoreapp3.1\Exercise 7.dll
+D:\Studies\Fundamentals-of-Software-Engineering\Array\наибольшие и наименьшие элементы\наибольшие и наименьшие элементы\Exercise 7\obj\Debug\netcoreapp3.1\Exercise 7.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\Array\наибольшие и наименьшие элементы\наибольшие и наименьшие элементы\Exercise 7\obj\Debug\netcoreapp3.1\Exercise 7.genruntimeconfig.cache

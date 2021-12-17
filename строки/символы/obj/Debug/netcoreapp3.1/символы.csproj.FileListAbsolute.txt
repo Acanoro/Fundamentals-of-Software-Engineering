@@ -1,0 +1,14 @@
+D:\Studies\Fundamentals-of-Software-Engineering\строки\символы\bin\Debug\netcoreapp3.1\символы.exe
+D:\Studies\Fundamentals-of-Software-Engineering\строки\символы\bin\Debug\netcoreapp3.1\символы.deps.json
+D:\Studies\Fundamentals-of-Software-Engineering\строки\символы\bin\Debug\netcoreapp3.1\символы.runtimeconfig.json
+D:\Studies\Fundamentals-of-Software-Engineering\строки\символы\bin\Debug\netcoreapp3.1\символы.runtimeconfig.dev.json
+D:\Studies\Fundamentals-of-Software-Engineering\строки\символы\bin\Debug\netcoreapp3.1\символы.dll
+D:\Studies\Fundamentals-of-Software-Engineering\строки\символы\bin\Debug\netcoreapp3.1\символы.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\строки\символы\obj\Debug\netcoreapp3.1\символы.csproj.AssemblyReference.cache
+D:\Studies\Fundamentals-of-Software-Engineering\строки\символы\obj\Debug\netcoreapp3.1\символы.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\Fundamentals-of-Software-Engineering\строки\символы\obj\Debug\netcoreapp3.1\символы.AssemblyInfoInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\строки\символы\obj\Debug\netcoreapp3.1\символы.AssemblyInfo.cs
+D:\Studies\Fundamentals-of-Software-Engineering\строки\символы\obj\Debug\netcoreapp3.1\символы.csproj.CoreCompileInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\строки\символы\obj\Debug\netcoreapp3.1\символы.dll
+D:\Studies\Fundamentals-of-Software-Engineering\строки\символы\obj\Debug\netcoreapp3.1\символы.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\строки\символы\obj\Debug\netcoreapp3.1\символы.genruntimeconfig.cache

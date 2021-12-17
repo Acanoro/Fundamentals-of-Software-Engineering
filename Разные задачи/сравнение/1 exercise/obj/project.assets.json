@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Studies\\Fundamentals-of-Software-Engineering\\1 exercise\\1 exercise\\1 exercise.csproj",
+      "projectUniqueName": "D:\\Studies\\Fundamentals-of-Software-Engineering\\Разные задачи\\сравнение\\1 exercise\\1 exercise.csproj",
       "projectName": "1 exercise",
-      "projectPath": "D:\\Studies\\Fundamentals-of-Software-Engineering\\1 exercise\\1 exercise\\1 exercise.csproj",
+      "projectPath": "D:\\Studies\\Fundamentals-of-Software-Engineering\\Разные задачи\\сравнение\\1 exercise\\1 exercise.csproj",
       "packagesPath": "C:\\Users\\ntuma\\.nuget\\packages\\",
-      "outputPath": "D:\\Studies\\Fundamentals-of-Software-Engineering\\1 exercise\\1 exercise\\obj\\",
+      "outputPath": "D:\\Studies\\Fundamentals-of-Software-Engineering\\Разные задачи\\сравнение\\1 exercise\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

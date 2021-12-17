@@ -1,0 +1,14 @@
+D:\Studies\Fundamentals-of-Software-Engineering\строки\Cоседниe буквы\bin\Debug\netcoreapp3.1\Cоседниe буквы.exe
+D:\Studies\Fundamentals-of-Software-Engineering\строки\Cоседниe буквы\bin\Debug\netcoreapp3.1\Cоседниe буквы.deps.json
+D:\Studies\Fundamentals-of-Software-Engineering\строки\Cоседниe буквы\bin\Debug\netcoreapp3.1\Cоседниe буквы.runtimeconfig.json
+D:\Studies\Fundamentals-of-Software-Engineering\строки\Cоседниe буквы\bin\Debug\netcoreapp3.1\Cоседниe буквы.runtimeconfig.dev.json
+D:\Studies\Fundamentals-of-Software-Engineering\строки\Cоседниe буквы\bin\Debug\netcoreapp3.1\Cоседниe буквы.dll
+D:\Studies\Fundamentals-of-Software-Engineering\строки\Cоседниe буквы\bin\Debug\netcoreapp3.1\Cоседниe буквы.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\строки\Cоседниe буквы\obj\Debug\netcoreapp3.1\Cоседниe буквы.csproj.AssemblyReference.cache
+D:\Studies\Fundamentals-of-Software-Engineering\строки\Cоседниe буквы\obj\Debug\netcoreapp3.1\Cоседниe буквы.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\Fundamentals-of-Software-Engineering\строки\Cоседниe буквы\obj\Debug\netcoreapp3.1\Cоседниe буквы.AssemblyInfoInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\строки\Cоседниe буквы\obj\Debug\netcoreapp3.1\Cоседниe буквы.AssemblyInfo.cs
+D:\Studies\Fundamentals-of-Software-Engineering\строки\Cоседниe буквы\obj\Debug\netcoreapp3.1\Cоседниe буквы.csproj.CoreCompileInputs.cache
+D:\Studies\Fundamentals-of-Software-Engineering\строки\Cоседниe буквы\obj\Debug\netcoreapp3.1\Cоседниe буквы.dll
+D:\Studies\Fundamentals-of-Software-Engineering\строки\Cоседниe буквы\obj\Debug\netcoreapp3.1\Cоседниe буквы.pdb
+D:\Studies\Fundamentals-of-Software-Engineering\строки\Cоседниe буквы\obj\Debug\netcoreapp3.1\Cоседниe буквы.genruntimeconfig.cache

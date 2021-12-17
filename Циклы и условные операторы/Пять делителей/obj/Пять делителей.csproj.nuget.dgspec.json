@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Studies\\Fundamentals-of-Software-Engineering\\Пять делителей\\Пять делителей.csproj": {}
+    "D:\\Studies\\Fundamentals-of-Software-Engineering\\Циклы и условные операторы\\Пять делителей\\Пять делителей.csproj": {}
   },
   "projects": {
-    "D:\\Studies\\Fundamentals-of-Software-Engineering\\Пять делителей\\Пять делителей.csproj": {
+    "D:\\Studies\\Fundamentals-of-Software-Engineering\\Циклы и условные операторы\\Пять делителей\\Пять делителей.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Studies\\Fundamentals-of-Software-Engineering\\Пять делителей\\Пять делителей.csproj",
+        "projectUniqueName": "D:\\Studies\\Fundamentals-of-Software-Engineering\\Циклы и условные операторы\\Пять делителей\\Пять делителей.csproj",
         "projectName": "Пять делителей",
-        "projectPath": "D:\\Studies\\Fundamentals-of-Software-Engineering\\Пять делителей\\Пять делителей.csproj",
+        "projectPath": "D:\\Studies\\Fundamentals-of-Software-Engineering\\Циклы и условные операторы\\Пять делителей\\Пять делителей.csproj",
         "packagesPath": "C:\\Users\\ntuma\\.nuget\\packages\\",
-        "outputPath": "D:\\Studies\\Fundamentals-of-Software-Engineering\\Пять делителей\\obj\\",
+        "outputPath": "D:\\Studies\\Fundamentals-of-Software-Engineering\\Циклы и условные операторы\\Пять делителей\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
